@@ -9,6 +9,7 @@ export default defineUserConfig({
   lang: 'zh-CN',
   title: 'EnochGao的博客',
   description: '专注于Angular开发',
+  base: '/blog/',
   theme: defaultTheme({
     logo: 'https://avatars.githubusercontent.com/u/41459067?v=4',
     repo: 'https://github.com/EnochGao/blog',
