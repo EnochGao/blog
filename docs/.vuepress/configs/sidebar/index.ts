@@ -5,8 +5,8 @@ export const sidebar: SidebarConfig = {
     {
       text: 'Angular指令',
       children: [
-        '/angular/ngComponentOutlet.md',
         '/angular/ngTemplateOutlet.md',
+        '/angular/ngComponentOutlet.md',
       ]
     },
   ]

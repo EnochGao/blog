@@ -1,7 +1,7 @@
 ---
-prev:
-  text: 上一篇
-  link: ./ngTemplateOutlet.md
+next:
+  text: 下一篇
+  link: ./ngComponentOutlet.md
 ---
 
 # ngTemplateOutlet

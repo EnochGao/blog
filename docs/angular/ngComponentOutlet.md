@@ -1,7 +1,7 @@
 ---
 # 字符串 - 页面文件相对路径
-next:
-  text: 下一篇
+prev:
+  text: 上一篇
   link: ./ngTemplateOutlet.md
 ---
 
@@ -11,7 +11,7 @@ next:
 
 ## 前言
 
-上一篇文章我们介绍了[`ngTemplateOutlet`](https://juejin.cn/post/7088226652177743909)的使用，本文继续介绍另一个类似指令`ngComponentOutlet`。
+上一篇文章我们介绍了`ngTemplateOutlet`的使用，本文继续介绍另一个类似指令`ngComponentOutlet`。
 
 前提你已了解Angular框架的基本使用，知晓[指令](https://angular.cn/guide/built-in-directives)等相关概念及作用。
 
