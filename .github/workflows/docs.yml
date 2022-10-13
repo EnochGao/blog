@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: docs编译
+name: docs
 
 on:
   # 每当 push 到 main 分支时触发部署
