@@ -5,13 +5,9 @@ prev:
   link: ./ngTemplateOutlet.md
 ---
 
-
-
 # ngComponentOutlet
 
 ## 前言
-
-上一篇文章我们介绍了`ngTemplateOutlet`的使用，本文继续介绍另一个类似指令`ngComponentOutlet`。
 
 前提你已了解Angular框架的基本使用，知晓[指令](https://angular.cn/guide/built-in-directives)等相关概念及作用。
 

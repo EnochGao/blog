@@ -1,6 +1,5 @@
 <template><div><h1 id="ngcomponentoutlet" tabindex="-1"><a class="header-anchor" href="#ngcomponentoutlet" aria-hidden="true">#</a> ngComponentOutlet</h1>
 <h2 id="前言" tabindex="-1"><a class="header-anchor" href="#前言" aria-hidden="true">#</a> 前言</h2>
-<p>上一篇文章我们介绍了<code v-pre>ngTemplateOutlet</code>的使用，本文继续介绍另一个类似指令<code v-pre>ngComponentOutlet</code>。</p>
 <p>前提你已了解Angular框架的基本使用，知晓<a href="https://angular.cn/guide/built-in-directives" target="_blank" rel="noopener noreferrer">指令<ExternalLinkIcon/></a>等相关概念及作用。</p>
 <ul>
 <li>ng版本：v13.3.x</li>

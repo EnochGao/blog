@@ -9,4 +9,6 @@ export const pagesComponents = {
   "v-fde27e5a": defineAsyncComponent(() => import(/* webpackChunkName: "v-fde27e5a" */"D:/my-project/blog/docs/.vuepress/.temp/pages/angular/ngTemplateOutlet.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"D:/my-project/blog/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /angular/ngIf.html
+  "v-70c4941d": defineAsyncComponent(() => import(/* webpackChunkName: "v-70c4941d" */"D:/my-project/blog/docs/.vuepress/.temp/pages/angular/ngIf.html.vue")),
 }

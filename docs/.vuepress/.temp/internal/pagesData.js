@@ -7,4 +7,6 @@ export const pagesData = {
   "v-fde27e5a": () => import(/* webpackChunkName: "v-fde27e5a" */"D:/my-project/blog/docs/.vuepress/.temp/pages/angular/ngTemplateOutlet.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"D:/my-project/blog/docs/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
+  // path: /angular/ngIf.html
+  "v-70c4941d": () => import(/* webpackChunkName: "v-70c4941d" */"D:/my-project/blog/docs/.vuepress/.temp/pages/angular/ngIf.html.js").then(({ data }) => data),
 }
