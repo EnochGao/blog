@@ -1,14 +1,14 @@
-import { SidebarConfig } from "vuepress";
+import { SidebarConfig } from 'vuepress';
 
 export const sidebar: SidebarConfig = {
-  '/angular/': [
+  '/angular/directive': [
     {
       text: '指令',
       children: [
-        '/angular/ngTemplateOutlet.md',
-        '/angular/ngComponentOutlet.md',
-        '/angular/ngIf.md',
-      ]
+        '/angular/directive/ngTemplateOutlet.md',
+        '/angular/directive/ngComponentOutlet.md',
+        '/angular/directive/ngIf.md',
+      ],
     },
-  ]
+  ],
 };
