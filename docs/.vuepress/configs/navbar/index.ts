@@ -15,7 +15,7 @@ export const navbar: NavbarConfig = [
     children: [
       {
         text: 'primeng',
-        link: 'http://124.223.57.88',
+        link: 'https://enochgao.github.io/primeng-cn/',
       },
     ],
   },
